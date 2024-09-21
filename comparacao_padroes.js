@@ -28,3 +28,6 @@ console.log("n = numeros.match(numPad) .");
 n = numeros.match(numPad);
 
 console.log("n[3]: "+n[3]);
+
+
+console.log("\n\nFim do arquivo");
